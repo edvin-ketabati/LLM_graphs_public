@@ -1,0 +1,10 @@
+networkx
+langchain_ollama
+langchain_core
+numpy
+scipy
+matplotlib
+torch
+openai
+evaluate
+datasets
